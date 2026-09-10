@@ -1,5 +1,4 @@
 # Hi, I'm Ada!
-**Data Analyst *(in training)* | Executive Assistant**
 
 I'm an aspiring Data Analyst with a background in Executive Assistance and Business Operations. I love playing around with data to discover trends, answer questions, and uncover insights that make work more efficient and productive.
 
