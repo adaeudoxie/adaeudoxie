@@ -1,5 +1,5 @@
 # Hi, I'm Ada!
-### Data Analyst *(in training)* | Executive Assistant
+**Data Analyst *(in training)* | Executive Assistant**
 
 I'm an aspiring Data Analyst with a background in Executive Assistance and Business Operations. I love playing around with data to discover trends, answer questions, and uncover insights that make work more efficient and productive.
 
@@ -13,18 +13,18 @@ My experience as an Executive Assistant has strengthened my skills in:
 - Problem-solving
 And now, I seek to add Data Analytics to the mix.
 
-  ## Data Analytics
-  ### I Work With:
-  - Microsoft Excel
-  - Power Query
-  - Power BI
-  - SQL *(beginner)*
+## Data Analytics
+### I Work With:
+- Microsoft Excel
+- Power Query
+- Power BI
+- SQL *(beginner)*
  
-  ### I'm Working Towards:
-  - Building practical Data Analytics projects
-  - Developing my Power BI and DAX skills
-  - Getting better at SQL
-  - Exploring Python for Data Analytics
+### I'm Working Towards:
+- Building practical Data Analytics projects
+- Developing my Power BI and DAX skills
+- Getting better at SQL
+- Exploring Python for Data Analytics
     
 ## My Projects
 *Still working on my first showcase.*
