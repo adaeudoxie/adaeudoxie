@@ -26,7 +26,7 @@ And now, I seek to add Data Analytics to the mix.
 - Exploring Python for Data Analytics
     
 ## My Projects
-[Sales Perfomance Analysis](https://github.com/adaeudoxie/sales-analysis-with-power-bi)
+[Sales Performance Analysis](https://github.com/adaeudoxie/sales-analysis-with-power-bi)
 
 ## I'd Love to Meet You:
 [LinkedIn](linkedin.com/in/favoureudoxie)
